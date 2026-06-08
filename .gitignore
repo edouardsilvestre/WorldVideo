@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Dataset (downloaded via data/download.py)
+data/raw/
