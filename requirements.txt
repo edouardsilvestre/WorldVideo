@@ -7,3 +7,4 @@ wandb
 gradio
 Pillow
 ipykernel
+torchmetrics
