@@ -1,8 +1,6 @@
 """
 ConvLSTM architecture adapted from OpenSTL (https://github.com/chengtan9907/OpenSTL),
-licensed under Apache License 2.0. Reproduced here to load a pretrained checkpoint
-(see results/best_model.pth provenance in report.md) since this project's own training
-run could not be completed within available compute resources.
+licensed under Apache License 2.0.
 
 Reference: Shi et al., "Convolutional LSTM Network: A Machine Learning Approach
 for Precipitation Nowcasting", NeurIPS 2015.
